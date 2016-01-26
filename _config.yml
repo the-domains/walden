@@ -1,0 +1,28 @@
+name: Walden
+favicon: null
+layout_spectrum: 0.31558431265875697
+typography_spectrum: 0.7626187494024634
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.1464992247056216
+  lightness: 0.9216221102979034
+  saturation: 0.7227063237223774
+  rhythmicContrast: 0.19109915872104466
+purpose: []
