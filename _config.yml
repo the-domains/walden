@@ -19,6 +19,12 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Lena van der Wal
+  email: hallo@waldenstudio.nl
+  url: 'http://www.waldenstudio.nl'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b1ac05b-2f44-4f6d-9809-006f46bede7b.png
 name: Walden
 cta:
   domain: null
