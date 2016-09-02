@@ -1,20 +1,4 @@
-name: Walden
-favicon: null
-layout_spectrum: 0.31558431265875697
 typography_spectrum: 0.7626187494024634
-title: 'ontwerpbureau voor kleine, zelfvoorzienende architectuur'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#9D2D3C'
@@ -26,4 +10,20 @@ color:
   lightness: 0.9216221102979034
   saturation: 0.7227063237223774
   rhythmicContrast: 0.19109915872104466
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.31558431265875697
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Walden
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 'ontwerpbureau voor kleine, zelfvoorzienende architectuur'
 purpose: []
